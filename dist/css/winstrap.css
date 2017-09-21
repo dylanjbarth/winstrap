@@ -11662,16 +11662,6 @@ code .number {
 .nav a, .section-title a {
   text-decoration: none; }
 
-.example-dark-image-bg {
-  background-image: url("../images/example_dark.jpg");
-  background-position: top left;
-  background-size: cover; }
-
-.example-light-image-bg {
-  background-image: url("../images/example_light.jpg");
-  background-position: top right;
-  background-size: cover; }
-
 .guidance {
   border-left: 5px solid; }
   .guidance ul {
